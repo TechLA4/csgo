@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://TechLA4.github.io/csgo</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://TechLA4.github.io/csgo</link></image><lastBuildDate>Wed, 02 Jul 2025 16:11:42 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>test</title><link>https://TechLA4.github.io/csgo/post/test.html</link><description># CSGO Betterbot 指南
+# CSGO Betterbot 指南
 # Server搭建
 
 
@@ -43,4 +42,3 @@ https://www.123684.com/s/8C4RTd-imE63
 	- ![image.png](https://techla-img.oss-cn-hangzhou.aliyuncs.com/CODE/WEB/20250702170137.png)
 
 
-。</description><guid isPermaLink="true">https://TechLA4.github.io/csgo/post/test.html</guid><pubDate>Wed, 02 Jul 2025 09:02:41 +0000</pubDate></item></channel></rss>
